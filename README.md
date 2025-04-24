@@ -26,8 +26,8 @@ A project that automatically transcribes audio from a video URL from YouTube and
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/en-or-ru-to-uz-transcriber.git
-cd en-or-ru-to-uz-transcriber
+git clone https://github.com/SaidKamol0612/Foreign-Lang-To-Other-API.git
+cd Foreign-Lang-To-Other-API
 
 # Create and activate a virtual environment
 python -m venv .venv
